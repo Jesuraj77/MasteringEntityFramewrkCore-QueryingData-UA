@@ -1,0 +1,4 @@
+E:\Shilpa\23-03-2020\Querying Data\UserAssignment\DataLayer\bin\Debug\netcoreapp3.1\Entities.dll
+E:\Shilpa\23-03-2020\Querying Data\UserAssignment\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csprojAssemblyReference.cache
+E:\Shilpa\23-03-2020\Querying Data\UserAssignment\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfoInputs.cache
+E:\Shilpa\23-03-2020\Querying Data\UserAssignment\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfo.cs
